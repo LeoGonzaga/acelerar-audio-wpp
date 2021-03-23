@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Fala rapidão",
+  "description": "Acelera os audios",
+  "version": "1.1",
+  "content_scripts": [
+    {
+      "matches": ["https://web.whatsapp.com/"],
+      "js": ["index.js"]
+    }
+  ]
+}
