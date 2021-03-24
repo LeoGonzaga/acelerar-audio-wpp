@@ -40,9 +40,12 @@ $ git clone https://github.com/LeoGonzaga/acelerar-audio-wpp.git
 
 # Extraia a pasta
 # Abra o google chrome e digite chrome://extensions/
-# Agora é só arrastar a pasta para dentro da tela e atualizar a página no web whatsapp
+# Ative o modo de desenvolvedor no lado superior direito
+# Agora é só arrastar a pasta para dentro da tela das extensões e atualizar a página no web whatsapp
 
-# Para ativar a velocidade 2x, clique no icone de 2x no canto superior esquerdo no site do whatsapp e depois clique no áudio que deseja ouvir.
+
+# Para ativar a velocidade 2x, clique no icone de 2x no canto superior esquerdo no site do whatsapp
+# Depois clique no áudio que deseja ouvir.
 ```
 
 # :closed_book: License
