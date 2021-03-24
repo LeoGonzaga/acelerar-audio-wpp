@@ -18,11 +18,7 @@
 
 > :rocket: Extensão do chrome desenvolvida para acelerar a velocidade dos áudios pelo web whatsapp
 
-<div align="center">
-  <sub>Gerador de Aldeia Ninja. Feito com ❤︎ por
-    <a href="https://github.com/LeoGonzaga">Léo Gonzaga</a> 
-  </sub>
-</div>
+
 
 # :pushpin: Conteúdo
 
