@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Fala rapidão",
   "description": "Acelere os audios do WhatsApp",
-  "version": "2",
+  "version": "1.2",
   "content_scripts": [
     {
       "matches": ["https://web.whatsapp.com/"],
