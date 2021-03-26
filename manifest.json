@@ -1,12 +1,17 @@
 {
   "manifest_version": 2,
   "name": "Fala rapidão",
-  "description": "Acelera os audios",
-  "version": "1.1",
+  "description": "Acelere os audios do WhatsApp",
+  "version": "1.3",
   "content_scripts": [
     {
       "matches": ["https://web.whatsapp.com/"],
       "js": ["index.js"]
     }
-  ]
+  ],
+  "icons": {
+    "16": "assets/icon16.png",
+    "32": "assets/icon32.png",
+    "128": "assets/icon128.png"
+  }
 }
