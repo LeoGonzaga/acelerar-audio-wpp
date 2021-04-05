@@ -30,7 +30,7 @@
 Esse projeto foi desenvolvido utlizando:
 
 * Javascript
-* Chrome Extensios
+* Chrome Extensions
 
 # :construction_worker: How to run
 ```bash
